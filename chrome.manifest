@@ -1,0 +1,2 @@
+content	trustedCAInstaller	content/
+overlay chrome://browser/content/browser.xul chrome://trustedCAInstaller/content/overlay.xul
